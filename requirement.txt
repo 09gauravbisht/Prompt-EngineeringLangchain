@@ -1,0 +1,3 @@
+!pip install langchain
+!pip install -q openai
+!pip install os
